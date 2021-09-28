@@ -1,8 +1,14 @@
-**HOW TO RUN**
+**HOW TO RUN DEV**
 
 If you haven't installed the dependencies, run `yarn install` first.
 
 Then run `yarn web`.
+
+**HOW TO RUN PROD**
+
+If you haven't build, run `yarn build:web` first.
+
+Then run `yarn prod`.
 
 **SCREENSHOTS**
 
